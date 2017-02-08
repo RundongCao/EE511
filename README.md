@@ -1,3 +1,3 @@
 # EE511
 
-I'd like to share and communicate code on probability with you
+I'd like to share and communicate code on EE511 projects with you
