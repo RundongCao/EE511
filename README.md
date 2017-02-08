@@ -1,3 +1,3 @@
 # EE511
 
-It is related to the course EE511
+I'd like to share and communicate code on probability with you
