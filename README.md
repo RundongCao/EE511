@@ -1,3 +1,3 @@
 # EE511
 
-I'd like to share and communicate code on EE511 projects with you
+This is a collection of EE511 (Simulation Methods for Stochastic Systems) projects
